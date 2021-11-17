@@ -58,7 +58,7 @@ export default function Weather() {
 
         <small className="contact">
           <a
-            href="https://github.com/00Dre00/week-7-weather-app"
+            href="https://github.com/00Dre00/react-project"
             target="_blank"
             rel="noreferrer"
           >
